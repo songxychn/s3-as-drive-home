@@ -8,8 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: 'logo.svg',
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '文档', link: '/what-is-s3-as-drive' }
     ],
 
     sidebar: [
